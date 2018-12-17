@@ -1,0 +1,28 @@
+.icone {
+	width:230px;
+	height:80px;
+}
+
+body{
+	background-image: url("TACOS.png");
+	background-size: cover;
+}
+
+.entete{
+	display: flex;
+	vertical-align: baseline;
+}
+
+.formulaire{
+	display: flex;
+	justify-content: space-between;
+}
+
+.champ{
+	height:30px;
+}
+
+.searchbutton{
+	width:30px;
+	height:27px;
+}
